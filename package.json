@@ -1,17 +1,17 @@
 {
-  "name": "@pancakeswap-libs/sdk",
+  "name": "bakeryswap-sdk",
   "license": "MIT",
   "version": "1.0.1",
-  "description": "🛠 An SDK for building applications on top of pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of bakeryswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/phucngh/bakeryswap-sdk.git",
   "keywords": [
-    "pancakeswap",
-    "ethereum"
+    "bakeryswap",
+    "bsc"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
